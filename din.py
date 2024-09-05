@@ -2,8 +2,9 @@ name = "Nikita"
 print(name)
 age = 27
 print(age)
-print(age + 1)
-is_student = "True"
+age=(age + 1)
+print(age)
+is_student = True
 print(is_student)
 
 
